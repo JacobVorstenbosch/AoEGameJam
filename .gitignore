@@ -65,3 +65,4 @@ crashlytics-build.properties
 
 #Things I added that we dont need comitted
 *DownloadedThings/*
+*FinalBuild/*
